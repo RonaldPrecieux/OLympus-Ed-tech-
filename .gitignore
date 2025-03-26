@@ -6,6 +6,7 @@
 /storage/*.key
 /storage/pail
 /storage/firebase/firebase-auth.json
+/firebase/firebase-auth.json
 /vendor
 .env
 .env.backup
